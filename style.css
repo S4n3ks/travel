@@ -27,13 +27,13 @@ a{
     font-size:30px;
     border:2px solid blue;
     border-radius:20px;
-    margin:5px
+    margin:5px;
 }
 
 
 iframe{
     border:3px solid navy;
-    margin:20px
+    margin:20px;
 }
 
 
@@ -60,5 +60,5 @@ footer{
 .head{
     border:5px solid green;
     background-color:blue;
-    text-align:left
+    text-align:left;
 }
