@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    
+}
+h1:first-letter{
+    color:crimson;
+    font-size:50px;
+    font-style:italic;
+}
+ p{
+    font-size:20px;
+    color:orangered;
+}
+
+h2{
+    color:navy;
+    
+}
+
+a{
+    text-decoration:none;
+    color:black;
+    font-size:30px;
+    border:2px solid blue;
+    border-radius:20px;
+    margin:5px
+}
+
+
+iframe{
+    border:3px solid navy;
+    margin:20px
+}
+
+
+a:hover{
+    color:orangered;
+}
+
+
+a:focus{
+    color:white;
+    background-color:black;
+}
+
+body{
+    background-color:lightblue;
+}
+
+
+footer{
+    border-top:5px solid green;
+}
+
+
+.head{
+    border:5px solid green;
+    background-color:blue;
+    text-align:left
+}
